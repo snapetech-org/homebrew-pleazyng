@@ -1,6 +1,6 @@
 cask "snapetech-pleazyng" do
-  version "3.0.7"
-  sha256 "506a208550290419471b44d5037f62c026d3e96b50fdbf7043c763a2bd425973"
+  version "3.0.49"
+  sha256 "653f461a0e6049924701dbe68756b113fcb2e97d2db6ab27ffdec9cfdcd644d8"
 
   url "https://github.com/snapetech-org/pleazyng/releases/download/v#{version}/pleazyng-macos.dmg"
   name "Pleazyng"
