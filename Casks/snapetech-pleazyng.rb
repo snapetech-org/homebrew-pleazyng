@@ -1,8 +1,8 @@
 cask "snapetech-pleazyng" do
-  version "3.0.49"
-  sha256 "653f461a0e6049924701dbe68756b113fcb2e97d2db6ab27ffdec9cfdcd644d8"
+  version "3.0.51"
+  sha256 "0feb3cc8b60ccb27a77b5ccb2784b370b47fe1e5481df9dd86f7a2a03f0695d6"
 
-  url "https://github.com/snapetech-org/pleazyng/releases/download/v#{version}/pleazyng-macos.dmg"
+  url "https://github.com/snapetech-org/pleazyng/releases/download/v#{version}/pleazyng-macos-notarized.dmg"
   name "Pleazyng"
   desc "Media client for Plex, Jellyfin, and Emby"
   homepage "https://github.com/snapetech-org/pleazyng"
